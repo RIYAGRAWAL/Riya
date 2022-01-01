@@ -1,0 +1,24 @@
+Previous year questions from module 5 on Black box testing.
+
+1) Differentiate between Black box and White box testing   10 M (May 2019)
+
+2) What is Black box testing? What is the role of testing in software engineering? 5 M (May 2019)
+
+3) Explain the white box and the black box testing methods suiting the above system (Restaurant management) 10 M ( May 2019)
+
+4) Write a short note on Black Box Testing 10 M (Dec 2018)
+
+5) Why Integration testing is needed to test a software? Explain the different incremental integration strategies. 10 M (Dec 2018)
+
+6) Explain with examples the validation testing  5 M (Dec 2017)
+
+7) What are the objectives of testing? Explain black box testing and integration testing.   10 M (Dec 2016)
+
+8) Compare Black box and White box testing? 5 M (May 2016)
+
+9) Write a short note on Black Box Testing  5 M  (Dec 2014)
+
+
+Regards
+CS5A03 AGRAWAL RIYA SANDEEP
+
